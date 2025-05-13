@@ -76,6 +76,8 @@ scripts/deploy.sh: Deployment script for compiling and publishing the contract t
 For questions or collaborations, please reach out via:
 
 email: katt_p@icloud.com
+via discord @katt_p9881
+or telegram @@Katt_p9881
 ---
 
 *Built for the everlasting hacker movement. Powered by DoraHacks.*
