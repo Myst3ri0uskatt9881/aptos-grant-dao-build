@@ -1,0 +1,6 @@
+Stable Production Branch
+This branch reflects your latest stable release.
+
+Only tested, reviewed, and working code is merged here.
+
+Protect this branch on GitHub to require PR reviews.
